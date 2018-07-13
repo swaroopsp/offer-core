@@ -1,0 +1,3 @@
+Third-party interactions either invoke a websocket resource or get called in the service layer
+
+Examples include...
